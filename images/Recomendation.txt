@@ -1,0 +1,2 @@
+This is all the images that I used on my undergraduate thesis tex file. 
+I highly recommended use PDF images because they don't pixelated when you resize them.
